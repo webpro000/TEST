@@ -1,7 +1,0 @@
-diff a/TEST2.txt b/TEST2.txt	(rejected hunks)
-@@ -1,2 +1,2 @@
- TEST2
--테스트2 입니다(123)....
-\ No newline at end of file
-+Test2 입니다(123-New)....
-\ No newline at end of file
